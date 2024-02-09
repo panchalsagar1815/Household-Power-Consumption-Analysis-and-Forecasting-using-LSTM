@@ -1,5 +1,4 @@
-# Household-Power
-
+# Household
 **Project Title: Household Power Consumption Analysis and Forecasting Using LSTM**
 
 **Overview:**
