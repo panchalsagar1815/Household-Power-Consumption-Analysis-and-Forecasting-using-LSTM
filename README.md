@@ -1,4 +1,4 @@
-# Household-Power-Consumption-Analysis-and-Forecasting
+# Household-Power-Consumption-Analysis-and
 
 **Project Title: Household Power Consumption Analysis and Forecasting Using LSTM**
 
