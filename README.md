@@ -18,7 +18,7 @@ The "Household Power Consumption Analysis and Forecasting Using LSTM" project fo
 
 3. **Dickey-Fuller Test for Stationarity:**
    - Employed the Dickey-Fuller test to assess stationarity in the time series data.
-   - Differentiated between the null hypothesis (presence of a unit root) and the alternative hypothesis (absence of a unit root) to determine stationarity.
+   - Differentiate between the null hypothesis (presence of a unit root) and the alternative hypothesis (absence of a unit root) to determine stationarity.
 
 4. **LSTM Model Architecture:**
    - Constructed an LSTM neural network model for time series forecasting.
