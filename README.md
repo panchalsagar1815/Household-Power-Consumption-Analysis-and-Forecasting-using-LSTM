@@ -22,7 +22,7 @@ The "Household Power Consumption Analysis and Forecasting Using LSTM" project fo
 
 4. **LSTM Model Architecture:**
    - Constructed an LSTM neural network model for time series forecasting.
-   - The model architecture includes an LSTM layer with 100 units, a dropout layer to prevent overfitting, and a dense layer for output.
+   - The model architecture includes an LSTM layer with 100 units, a dropout layer to prevent overfitting and a dense layer for output.
    - Compiled the model using mean squared error as the loss function and the Adam optimizer.
 
 5. **Training and Validation:**
