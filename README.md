@@ -1,5 +1,5 @@
 # 
-**Project Title: Household Power Consumption Analysis and Forecasting Using LSTM**
+ **Project Title: Household Power Consumption Analysis and Forecasting Using LSTM**
 
 **Overview:**
 The "Household Power Consumption Analysis and Forecasting Using LSTM" project focuses on analyzing and forecasting the global active power consumption in a household over nearly four years. The dataset includes features such as Date, Time, Global_active_power, Global_reactive_power, Voltage, Global_intensity, Sub_metering_1, Sub_metering_2, and Sub_metering_3. The analysis incorporates data cleaning, statistical tests for normality, and LSTM (Long Short-Term Memory) neural network modelling for accurate power consumption forecasting.
